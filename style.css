@@ -27,7 +27,9 @@ h2 {
   border-bottom: 2px solid #4a90e2;
   padding-bottom: 0.25rem;
 }
-
+section {
+  text-align: center;
+}
 button {
   background-color: #4a90e2;
   color: white;
@@ -39,7 +41,7 @@ button {
 }
 
 button:hover {
-  background-color: #357ab8;
+  background-color: #FF0000;
 }
 
 footer {
